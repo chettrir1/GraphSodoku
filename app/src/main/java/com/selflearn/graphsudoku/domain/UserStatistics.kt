@@ -1,4 +1,4 @@
-package com.selflearn.graphsodoku.domain
+package com.selflearn.graphsudoku.domain
 
 data class UserStatistics(
     val fourEasy: Long = 0,

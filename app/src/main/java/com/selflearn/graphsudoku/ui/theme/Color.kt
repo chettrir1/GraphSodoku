@@ -1,4 +1,4 @@
-package com.selflearn.graphsodoku.ui.theme
+package com.selflearn.graphsudoku.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

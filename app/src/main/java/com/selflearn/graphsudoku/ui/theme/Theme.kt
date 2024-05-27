@@ -1,4 +1,4 @@
-package com.selflearn.graphsodoku.ui.theme
+package com.selflearn.graphsudoku.ui.theme
 
 import android.app.Activity
 import android.os.Build

@@ -1,4 +1,4 @@
-package com.selflearn.graphsodoku.domain
+package com.selflearn.graphsudoku.domain
 
 //enum class is useful for creating restricted set of values.
 enum class Difficulty(val modifier: Double) {
